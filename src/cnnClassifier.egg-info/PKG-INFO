@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/anandanraju/Kidney-Disease-Classification-Deep-Learning-Project
+Author: anandanraju
+Author-email: anandandurairaju@gmail.com
+License: MIT
+Project-URL: Bug Tracker, https://github.com/anandanraju/Kidney-Disease-Classification-Deep-Learning-Project/issues
+Description-Content-Type: text/markdown
+
+# Kidney-Disease-Classification-DL-MLFlow-DVC-Project
+
+
+## How to Run ?
+
+### STEPS:
+
+Clone the repository
+
+```bash
+https://github.com/anandanraju/Kidney-Disease-Classification-DL-MLFlow-DVC-Project
+```
+### STEP 01 - Create a conda environment after opening the repository
+
+```bash
+conda create -n cnncls python=3.8 -y
+```
+```bash
+conda activate cmncls
+```
+### STEP 02 - Install the requirements
+
+```bash
+pip install -r requirements.txt
+```
